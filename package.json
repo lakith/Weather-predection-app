@@ -1,0 +1,16 @@
+{
+  "name": "weather-application",
+  "version": "1.0.0",
+  "description": "weather-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lakith muthugala",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "prompt": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
